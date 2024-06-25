@@ -17,12 +17,13 @@ h1 {text-align: center;
     border-right-width: 5px;
     border-right: 25%;}
 
-article {background-color: rgb(12, 6, 8);
-    «width: 1000px;
-     height:auto;
-     border: none;}
-        
-      
+article {
+      background-color: rgb(12, 6, 8);
+      width: 1000px;
+      height:auto;
+      border: none;
+}        
+
 div  {background-color: rgb(0, 0, 0);
       color: white;
       width: 50%;
@@ -53,7 +54,7 @@ img {margin-left: -45px;
 .green-button:hover {background-color:rgb(225, 19, 100) ;}
 
 #fondo {text-align: center;
-        width: 40px;}
+      width: 40px;}
 
 
 ul {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
